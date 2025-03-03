@@ -20,16 +20,16 @@
 
 # MA3 LIGHT
 
-| Barcode | Date complete | Notes                 | Tester |
-| ------- | ------------- | --------------------- | ------ |
-| 17102   | 05/02/2025    | CMOS Battery replaced | Rory   |
-| 17103   | 05/02/2025    | CMOS battery replaced | Rory   |
-| 27036   |               |                       |        |
-| 27037   |               |                       |        |
-| 37619   | 05/02/25      | CMOS battery replaced | Rory   |
-| 37814   |               |                       |        |
-| 39469   |               |                       |        |
-| 39470   | 27/02/2025    |                       | Rory   |
+| Barcode | Date complete | Notes                     | Tester |
+| ------- | ------------- | ------------------------- | ------ |
+| 17102   | 05/02/2025    | CMOS Battery replaced     | Rory   |
+| 17103   | 05/02/2025    | CMOS battery replaced     | Rory   |
+| 27036   | 03/03/2025    | - 2.9 will need changing  | Rory   |
+| 27037   |               |                           |        |
+| 37619   | 05/02/25      | CMOS battery replaced     | Rory   |
+| 37814   |               |                           |        |
+| 39469   |               |                           |        |
+| 39470   | 27/02/2025    |                           | Rory   |
 
 
 # MA2 LIGHT
